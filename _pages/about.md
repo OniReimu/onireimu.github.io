@@ -58,7 +58,7 @@ Much more to come...
 </div>
 </div>
 
-- - **[TSMC'23]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al.
+- **[TSMC'23]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al.
 
 ## 💰 Blockchain and Web3
 
