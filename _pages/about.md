@@ -29,7 +29,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 Much more to come...
 
-# 📝 Research Outcomes 
+# 📝 Selected Publications
 
 ## 👾 AI, AI4Blockchain, Blockchain4AI
 
@@ -52,13 +52,34 @@ Much more to come...
 
 **Guangsheng Yu**, Yanna Jiang, Qin Wang, Xu Wang, Baihe Ma, Caijun Sun, Wei Ni, Ren Ping Liu.
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work is the first to propose, implement, and evaluate a practical unlearning framework for split learning.
-- 💪 This work has been submitted to ACM CCS'25.
+- 💪 This work has been submitted to **ACM CCS'25**.
 </div>
 </div>
 
-- **[TSMC'23]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fishers Harvest Parallel Unlearning in Inherited Model Networks](https://arxiv.org/pdf/2408.08493)
+
+Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
+
+- This work is the first-ever to achieve fully parallel unlearning across models that are interlinked.
+- 💪 This work has been submitted to **ACM CCS'25**.
+</div>
+</div>
+
+- **[TSMC]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al. 2023.
+
+- **[TIST]** [Obfuscating the Dataset: Impacts and Applications](https://dl.acm.org/doi/abs/10.1145/3597936), **Guangsheng Yu**, Xu Wang, et al. 2023.
+
+- **[Neurocomputing]** [Preventing harm to the rare in combating the malicious: A filtering-and-voting framework with adaptive aggregation in federated learning](https://www.sciencedirect.com/science/article/pii/S0925231224010889), Yanna Jiang, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
+
+- **[CSUR]** [Blockchained Federated Learning for Internet of Things: A Comprehensive Survey](https://dl.acm.org/doi/full/10.1145/3659099), Yanna Jiang, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024
+
+- **[Computer Networks]** [TBDD: A New Trust-based, DRL-driven Framework for Blockchain Sharding in IoT](https://www.sciencedirect.com/science/article/pii/S1389128624001750), Zixu Zhang, **Guangsheng Yu**, et al. 2024.
+
+- **[arXiv]** [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/abstract/document/10201805), Xiao Liu, Mingyuan Li, **Guangsheng Yu**, Xu Wang, et al. 💪 Submitted to **TIFS**.
 
 ## 💰 Blockchain and Web3
 
