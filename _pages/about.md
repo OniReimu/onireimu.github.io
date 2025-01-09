@@ -29,7 +29,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 Much more to come...
 
-# 📝 Publications 
+# 📝 Research Outcomes 
 
 ## 👾 AI, AI4Blockchain, Blockchain4AI
 
@@ -38,16 +38,29 @@ Much more to come...
 
 [IronForge: An Open, Secure, Fair, Decentralized Federated Learning](https://ieeexplore.ieee.org/abstract/document/10323597)
 
-**Guangsheng Yu**, Xu Wang, Caijun Sun, Qin Wang, Ping Yu, Wei Ni, Ren Ping Liu
+**Guangsheng Yu**, Xu Wang, Caijun Sun, Qin Wang, Ping Yu, Wei Ni, Ren Ping Liu.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work is an implementation of [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521) in an AI context.
 </div>
 </div>
 
-## 💰 Blockchain and Web3
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, Wei Ni, Qinghua Lu, Xiwei Xu, Ren Ping Liu, Liming Zhu **TSMC'23**
+[Split Unlearning](https://arxiv.org/pdf/2308.10422)
+
+**Guangsheng Yu**, Yanna Jiang, Qin Wang, Xu Wang, Baihe Ma, Caijun Sun, Wei Ni, Ren Ping Liu.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- This work is the first to propose, implement, and evaluate a practical unlearning framework for split learning.
+- 💪 This work has been submitted to ACM CCS'25.
+</div>
+</div>
+
+- [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, Wei Ni, Qinghua Lu, Xiwei Xu, Ren Ping Liu, Liming Zhu. **TSMC'23**
+
+## 💰 Blockchain and Web3
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

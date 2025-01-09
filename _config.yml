@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangsheng Yu (Saber)"
-description              : "Lecturer at University of Technology Sydney. Focusing on Security and Privacy in AI and Blockchain."
+description              : "Lecturer. Focusing on Security and Privacy in AI and Blockchain."
 repository               : "onireimu/onireimu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gsyusaber/"
+  linkedin         : "gsyusaber"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6111-1607"
   pinterest        :
