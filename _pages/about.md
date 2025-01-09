@@ -58,7 +58,14 @@ Much more to come...
 </div>
 </div>
 
-- <div class="badge">TSMC'23</div> <div style="margin-left: 4px">[Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al. **TSMC'23**</div>
+- <div style="display: flex; align-items: center;">
+  <div class="badge" style="background-color: #007bff; color: white; padding: 2px 6px; border-radius: 4px; font-size: 12px;">TSMC'23</div>
+  <div style="margin-left: 8px;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10201805" style="text-decoration: none; color: black;">
+      Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach
+    </a>, <strong>Guangsheng Yu</strong>, Xu Wang, et al. <strong>TSMC'23</strong>
+  </div>
+</div>
 
 ## 💰 Blockchain and Web3
 
