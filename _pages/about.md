@@ -50,18 +50,18 @@ Much more to come...
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Standards
-- [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521), Referable NFT, Finalized!!!
+- [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521)[Webpage](https://www.r-nft.io)[Doc](https://arxiv.org/pdf/2210.10910), Referable NFT, Finalized!!!
 - [*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634), Limited transfer count NFT, Draft.
 
 # 💻 Teaching
 
-- *Coord./Lect./Tut.*, 41900/42000 Cryptography. Large-scale course with over 450 students.
-- *Coord./Lect./Tut.*, 41092 Network Fundamentals.
-- *Coord./Lect.*, 65325 Digital Trace and Identity.
-- *Coord./Lect.*, 420108 Cybersecurity Management.
-- *Tut.*, 4310 Cyber Threat Intelligence and Incident Response.
-- *Tut.*, 48436 Digital Forensics.
-- *Curric. Des.*, 43030 Professional Practice in Computing (Cybersecurity).
+- *Coord./Lect./Tut.*, 41900/42000 Cryptography, University of Technology Sydney. Large-scale course with over 450 students.
+- *Coord./Lect./Tut.*, 41092 Network Fundamentals, University of Technology Sydney. Fundamentals course for all Cybersecurity students.
+- *Coord./Lect.*, 65325 Digital Trace and Identity, University of Technology Sydney. Core course for Forensic students (Forensic-oriented).
+- *Coord./Lect.*, 420108 Cybersecurity Management, University of Technology Sydney. OPM course for industry.
+- *Tut.*, 43010 Cyber Threat Intelligence and Incident Response, University of Technology Sydney. SecOps course collaborated with [ThreatDefense](https://www.threatdefence.com).
+- *Tut.*, 48436 Digital Forensics, University of Technology Sydney. Advanced course for Forensic students (Cybersecurity-oriented).
+- *Curric. Des.*, 43030 Professional Practice in Computing (Cybersecurity), University of Technology Sydney. Aimed for 500 students in two years.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
