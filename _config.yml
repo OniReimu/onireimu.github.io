@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangsheng (Saber) Yu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Guangsheng Yu (Saber)"
+description              : "Lecturer at University of Technology Sydney. Focusing on Security and Privacy in AI and Blockchain."
 repository               : "onireimu/onireimu.github.io"
 google_scholar_stats_use_cdn : true
 
