@@ -50,8 +50,8 @@ Much more to come...
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Standards
-- [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521)[Webpage](https://www.r-nft.io)[Doc](https://arxiv.org/pdf/2210.10910), Referable NFT, Finalized!!!
-- [*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634), Limited transfer count NFT, Draft.
+- [[*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521)][[Webpage](https://www.r-nft.io)][[Doc](https://arxiv.org/pdf/2210.10910)], Referable NFT, Finalized!!!
+- [[*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634)][[Webpage](https://www.r-nft.io)][[Doc](https://arxiv.org/pdf/2210.10910)], Limited transfer count NFT, Draft.
 
 # 💻 Teaching
 
