@@ -45,17 +45,25 @@ Much more to come...
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Standards
+- [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521), Referable NFT, Finalized!!!
+- [*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634), Limited transfer count NFT, Draft.
 
-# 💬 Invited Talks
+# 💻 Teaching
+
+- *Coord./Lect./Tut.*, 41900/42000 Cryptography. Large-scale course with over 450 students.
+- *Coord./Lect./Tut.*, 41092 Network Fundamentals.
+- *Coord./Lect.*, 65325 Digital Trace and Identity.
+- *Coord./Lect.*, 420108 Cybersecurity Management.
+- *Tut.*, 4310 Cyber Threat Intelligence and Incident Response.
+- *Tut.*, 48436 Digital Forensics.
+- *Curric. Des.*, 43030 Professional Practice in Computing (Cybersecurity).
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
