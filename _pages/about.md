@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer at University of Technology Sydney. Before that, I was a Postdoctoral Fellow at the CSIRO Data61 working with [Dr. Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ), [Prof. Shiping Chen](https://scholar.google.com/citations?user=z4We1-UAAAAJ), and [Dr. Wei Ni](https://scholar.google.com/citations?user=GMS201gAAAAJ).
+I am a [Lecturer](https://www.wikiwand.com/en/articles/Academic_ranks_(Australia_and_New_Zealand)) at [University of Technology Sydney](https://www.uts.edu.au/about/faculty-engineering-and-information-technology) where I also obtained my PhD. Before that, I was a Postdoctoral Fellow at the [CSIRO Data61](https://www.csiro.au/en/research/technology-space?start=0&count=12) working with [Dr. Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ), [Prof. Shiping Chen](https://scholar.google.com/citations?user=z4We1-UAAAAJ), and [Dr. Wei Ni](https://scholar.google.com/citations?user=GMS201gAAAAJ). I received my B.Eng. and M.Eng. degrees in Telecommunication Network Engineering from the [University of New South Wales](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications).
 
 I have expertise in the reliability, trust, and scalability of data management systems, with a focus on security and privacy analysis in ML, including attacks and defenses, machine unlearning, incentivized/decentralized ML, and privacy-preserving blockchains. I have published 50+ papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=oMUYCk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+If you are interested in my research and keen to collaborate or discuss potential PhD opportunities, please feel free to contact me via email. Much welcome!
+
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+Much more to come...
 
 # 📝 Publications 
 
