@@ -25,8 +25,8 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
-- *10.01.2025*: &nbsp;💪💪 Two papers "Split Unlearning" and "Fishers Harvest Parallel Unlearning in Inherited Model Networks" have been submitted to **ACM CCS'25**. Welcome to check them out on [arXiv](https://arxiv.org/abs/2308.10422) and [arXiv](https://arxiv.org/abs/2408.08493) beforehand!
-- *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories" has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
+- *10.01.2025*: &nbsp;💪💪 Two papers [Split Unlearning](https://arxiv.org/abs/2308.10422) and [Fishers Harvest Parallel Unlearning in Inherited Model Networks](https://arxiv.org/abs/2408.08493) have been submitted to **ACM CCS'25**. Welcome to check them out beforehand!
+- *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10614332), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
 
 # 📝 Publications
 
