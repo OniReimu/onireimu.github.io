@@ -25,11 +25,10 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-Much more to come...
+- *10.01.2025*: &nbsp;💪💪 Two papers "Split Unlearning" and "Fishers Harvest Parallel Unlearning in Inherited Model Networks" have been submitted to **ACM CCS'25**. Welcome to check them out on [arXiv](https://arxiv.org/abs/2308.10422) and [arXiv](https://arxiv.org/abs/2408.08493) beforehand!
+- *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories" has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
 
-# 📝 Selected Publications
+# 📝 Publications
 
 ## 👾 AI, AI4Blockchain, Blockchain4AI
 
