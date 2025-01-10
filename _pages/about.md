@@ -90,7 +90,6 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 **Guangsheng Yu**, Xuan Zha,Xu Wang, Wei Ni, Kan Yu, Ping Yu, J. Andrew Zhang, Ren Ping Liu, Y. Jay Guo.
 
-<strong><span class='show_paper_citations' data='oMUYCk0AAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
 </div>
 
@@ -115,7 +114,28 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[Computer & Security]** [A Unified Analytical Model for Proof-of-X Schemes](https://www.sciencedirect.com/science/article/pii/S0167404820302108), **Guangsheng Yu**, Xuan Zha, Xu Wang, et al. 2020.
 
-- **[IA]** [Survey: Sharding in Blockchains](https://ieeexplore.ieee.org/abstract/document/8954616), **Guangsheng Yu**, Xu Wang, et al. 2020, <strong><span class='show_paper_citations' data='oMUYCk0AAAAJ:IjCSPb-OGe4C'></span></strong>
+- **[Information Systems]** [Defining Blockchain Governance Principles: A Comprehensive Framework](https://www.sciencedirect.com/science/article/pii/S0306437922000758), Yue Liu, Qinghua, Lu, **Guangsheng Yu**, et al. 2022.
+
+- **[IA]** [Survey: Sharding in Blockchains](https://ieeexplore.ieee.org/abstract/document/8954616), **Guangsheng Yu**, Xu Wang, et al. 2020.
+
+- **[ICSA'23]** [A Pattern-oriented Reference Architecture for Governance-driven Blockchain Systems](https://ieeexplore.ieee.org/abstract/document/10092670), Yue Liu, Qinghua Lu, **Guangsheng Yu**, et al.
+
+- **[EuroPLoP'22]** [A Pattern Language for Blockchain Governance](https://dl.acm.org/doi/abs/10.1145/3551902.3564802), Yue Liu, Qinghua Lu, **Guangsheng Yu**, et al.
+
+- **[ICBC'23]** [Predicting NFT Classification with GNN: A Recommender System for Web3 Assets](https://ieeexplore.ieee.org/abstract/document/10174882), **Guangsheng Yu**, Qin Wang, et al.
+
+- **[ICBC'23]** [A First Look into Blockchain DAOs](https://ieeexplore.ieee.org/abstract/document/10174961), Qin Wang, **Guangsheng Yu**, et al.
+
+- **[ICBC'23]** [Leveraging Architectural Approaches in Web3 Applications - A DAO Perspective Focused](https://ieeexplore.ieee.org/abstract/document/10174988), **Guangsheng Yu**, Qin Wang, Tingting, Bi, et al.
+
+- **[ICBC'23]** [A Referable NFT Scheme](https://ieeexplore.ieee.org/abstract/document/10174865), Qin Wang, **Guangsheng Yu**, et al.
+
+- **[ICBC'22]** [Carboncoin: Blockchain Tokenization of Carbon Emissions with ESG-based Reputation](https://ieeexplore.ieee.org/abstract/document/9805516), Oscar Golding, **Guangsheng Yu**, et al.
+
+- **[GLOBECOM'18]** [Attack and Defence of Ethereum Remote APIs](https://ieeexplore.ieee.org/abstract/document/8644498), Xu Wang, Xuan Zha, **Guangsheng Yu**, et al.
+
+- **[GLOBECOM'18]** [An Optimized Round-Robin Scheduling of Speakers for Peers-to-Peers-Based Byzantine Faulty Tolerance](https://ieeexplore.ieee.org/abstract/document/8644251), **Guangsheng Yu**, Xu Wang, Xuan Zha, et al.
+
 
 
 <!-- # 🎖 Honors and Awards
@@ -124,7 +144,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 # 📖 Standards
 - [[*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521)][[Webpage](https://www.r-nft.io)][[Doc](https://arxiv.org/pdf/2210.10910)], Referable NFT, Finalized!!!
-- [*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634), Limited transfer count NFT, Draft.
+- [[*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634)], Limited transfer count NFT, Draft.
 
 # 💻 Teaching
 
