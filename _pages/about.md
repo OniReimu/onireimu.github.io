@@ -57,7 +57,7 @@ Much more to come...
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_fisher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fishers Harvest Parallel Unlearning in Inherited Model Networks](https://arxiv.org/pdf/2408.08493)
@@ -105,17 +105,17 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 </div>
 </div>
 
-- **TCSS** [Cryptocurrency in the Aftermath: Unveiling the Impact of the SVB Collapse](https://ieeexplore.ieee.org/abstract/document/10522795), Qin Wang, **Guangsheng Yu**, Shiping Chen. 2024.
+- **[TCSS]** [Cryptocurrency in the Aftermath: Unveiling the Impact of the SVB Collapse](https://ieeexplore.ieee.org/abstract/document/10522795), Qin Wang, **Guangsheng Yu**, Shiping Chen. 2024.
 
-- **IoTJ** [Blockchain-Enabled Fish Provenance and Quality Tracking System](https://ieeexplore.ieee.org/abstract/document/9526860), Xu Wang, **Guangsheng Yu**, Ren Ping Liu, et al. 2021.
+- **[IoTJ]** [Blockchain-Enabled Fish Provenance and Quality Tracking System](https://ieeexplore.ieee.org/abstract/document/9526860), Xu Wang, **Guangsheng Yu**, Ren Ping Liu, et al. 2021.
 
-- **Computer Communications** [Capacity Analysis of Public Blockchain](https://www.sciencedirect.com/science/article/pii/S0140366421002437), Xu Wang, Wei Ni, Xuan Zha, **Guangsheng Yu**, Ren Ping Liu, et al. 2021.
+- **[Computer Communications]** [Capacity Analysis of Public Blockchain](https://www.sciencedirect.com/science/article/pii/S0140366421002437), Xu Wang, Wei Ni, Xuan Zha, **Guangsheng Yu**, Ren Ping Liu, et al. 2021.
 
-- **IPM** [A Novel Dual-Blockchained Structure for Contract-theoretic LoRa-based Information Systems](https://www.sciencedirect.com/science/article/pii/S0140366421002437), **Guangsheng Yu**, Litianyi Zhang, Xu Wang, et al. 2021.
+- **[IPM]** [A Novel Dual-Blockchained Structure for Contract-theoretic LoRa-based Information Systems](https://www.sciencedirect.com/science/article/pii/S0140366421002437), **Guangsheng Yu**, Litianyi Zhang, Xu Wang, et al. 2021.
 
-- **Computer & Security** [A Unified Analytical Model for Proof-of-X Schemes](https://www.sciencedirect.com/science/article/pii/S0167404820302108), **Guangsheng Yu**, Xuan Zha, Xu Wang, et al. 2020.
+- **[Computer & Security]** [A Unified Analytical Model for Proof-of-X Schemes](https://www.sciencedirect.com/science/article/pii/S0167404820302108), **Guangsheng Yu**, Xuan Zha, Xu Wang, et al. 2020.
 
-- **IA** [Survey: Sharding in Blockchains](https://ieeexplore.ieee.org/abstract/document/8954616), **Guangsheng Yu**, Xu Wang, et al. 2020, <strong><span class='show_paper_citations' data='oMUYCk0AAAAJ:IjCSPb-OGe4C'></span></strong>
+- **[IA]** [Survey: Sharding in Blockchains](https://ieeexplore.ieee.org/abstract/document/8954616), **Guangsheng Yu**, Xu Wang, et al. 2020, <strong><span class='show_paper_citations' data='oMUYCk0AAAAJ:IjCSPb-OGe4C'></span></strong>
 
 
 <!-- # 🎖 Honors and Awards
