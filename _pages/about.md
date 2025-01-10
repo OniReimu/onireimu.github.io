@@ -136,6 +136,12 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[GLOBECOM'18]** [An Optimized Round-Robin Scheduling of Speakers for Peers-to-Peers-Based Byzantine Faulty Tolerance](https://ieeexplore.ieee.org/abstract/document/8644251), **Guangsheng Yu**, Xu Wang, Xuan Zha, et al.
 
+## 🚗 Applied Cybersecurity
+
+- **[IOTJ]** [ByCAN: Reverse Engineering Controller Area Network (CAN) Messages From Bit to Byte Level](https://ieeexplore.ieee.org/abstract/document/10614332), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
+
+- **[TITS]** [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://www.linkedin.com/posts/dr-xuwang_privacy-transportation-canbus-activity-7278979426355163136-50HT/), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
+
 
 
 <!-- # 🎖 Honors and Awards
