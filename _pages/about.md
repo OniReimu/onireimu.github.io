@@ -142,7 +142,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[TITS]** [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://www.linkedin.com/posts/dr-xuwang_privacy-transportation-canbus-activity-7278979426355163136-50HT/), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
 
-- **[WCM]** [Accountability and Reliability in 6G O-RAN: \\ Who is Responsible When it Fails?](https://www.linkedin.com/feed/update/urn:li:activity:7277494757205884929/), Ying He, **Guangsheng Yu**, Xu Wang, Qin Wang, et al. 2024.
+- **[WCM]** [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://www.linkedin.com/feed/update/urn:li:activity:7277494757205884929/), Ying He, **Guangsheng Yu**, Xu Wang, Qin Wang, et al. 2024.
 
 
 
