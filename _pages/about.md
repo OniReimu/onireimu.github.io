@@ -26,7 +26,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 # 🔥 News
 - *10.01.2025*: &nbsp;💪💪 Two papers [Split Unlearning](https://arxiv.org/abs/2308.10422) and [Fishers Harvest Parallel Unlearning in Inherited Model Networks](https://arxiv.org/abs/2408.08493) have been submitted to **ACM CCS'25**. Welcome to check them out beforehand!
-- *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://www.linkedin.com/posts/dr-xuwang_privacy-transportation-canbus-activity-7278979426355163136-50HT/), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
+- *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
 - *29.12.2024*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://www.linkedin.com/feed/update/urn:li:activity:7277494757205884929/), has been accepted by **IEEE Wireless Communications (WSM)**!
 
 # 📝 Publications
@@ -140,7 +140,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[IoTJ]** [ByCAN: Reverse Engineering Controller Area Network (CAN) Messages From Bit to Byte Level](https://ieeexplore.ieee.org/abstract/document/10614332), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
 
-- **[TITS]** [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://www.linkedin.com/posts/dr-xuwang_privacy-transportation-canbus-activity-7278979426355163136-50HT/), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
+- **[TITS]** [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
 
 - **[WCM]** [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://www.linkedin.com/feed/update/urn:li:activity:7277494757205884929/), Ying He, **Guangsheng Yu**, Xu Wang, Qin Wang, et al. 2024.
 
