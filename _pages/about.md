@@ -35,18 +35,6 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 
 ## 👾 AI, AI4Blockchain, Blockchain4AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'23</div><img src='images/paper_ironforge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[IronForge: An Open, Secure, Fair, Decentralized Federated Learning](https://ieeexplore.ieee.org/abstract/document/10323597)
-
-**Guangsheng Yu**, Xu Wang, Caijun Sun, Qin Wang, Ping Yu, Wei Ni, Ren Ping Liu.
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- This work is an implementation of [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521) in an AI context.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +44,18 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 
 - This work is the first to propose, implement, and evaluate a practical unlearning framework for split learning.
 - 🎉 This work has been directly accepted to **ACM CCS'25**.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'23</div><img src='images/paper_ironforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IronForge: An Open, Secure, Fair, Decentralized Federated Learning](https://ieeexplore.ieee.org/abstract/document/10323597)
+
+**Guangsheng Yu**, Xu Wang, Caijun Sun, Qin Wang, Ping Yu, Wei Ni, Ren Ping Liu.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- This work is an implementation of [*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521) in an AI context.
 </div>
 </div>
 
