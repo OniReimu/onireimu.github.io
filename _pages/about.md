@@ -25,8 +25,9 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
+- *10.01.2025*: &nbsp;🌟 We’re beyond excited! 🌟
+Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-tier venues in security and privacy! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
 - *17.02.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), has been published online in **IEEE Transactions on Computational Social Systems (TCSS)**!
-- *10.01.2025*: &nbsp;💪💪 Two papers [Split Unlearning](https://arxiv.org/abs/2308.10422) and [Fishers Harvest Parallel Unlearning in Inherited Model Networks](https://arxiv.org/abs/2408.08493) have been submitted to **ACM CCS'25**. Welcome to check them out beforehand!
 - *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
 - *29.12.2024*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://www.linkedin.com/feed/update/urn:li:activity:7277494757205884929/), has been accepted by **IEEE Wireless Communications (WSM)**!
 
@@ -54,7 +55,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 **Guangsheng Yu**, Yanna Jiang, Qin Wang, Xu Wang, Baihe Ma, Caijun Sun, Wei Ni, Ren Ping Liu.
 
 - This work is the first to propose, implement, and evaluate a practical unlearning framework for split learning.
-- 💪 This work has been submitted to **ACM CCS'25**.
+- 🎉 This work has been directly accepted to **ACM CCS'25**.
 </div>
 </div>
 
@@ -66,7 +67,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - This work is the first-ever to achieve fully parallel unlearning across models that are interlinked.
-- 💪 This work has been submitted to **ACM CCS'25**.
+- 💪 This work has been submitted to **TIFS**.
 </div>
 </div>
 
