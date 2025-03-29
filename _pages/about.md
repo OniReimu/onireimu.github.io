@@ -25,7 +25,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
-- *10.01.2025*: &nbsp;🌟 We’re beyond excited! 🌟
+- *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
 Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-tier venues in security and privacy! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
 - *17.02.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), has been published online in **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
@@ -35,7 +35,7 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 
 ## 👾 AI, AI4Blockchain, Blockchain4AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'25</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Split Unlearning](https://arxiv.org/pdf/2308.10422)
