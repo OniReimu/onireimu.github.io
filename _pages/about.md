@@ -26,7 +26,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 # 🔥 News
 - *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
-Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-tier venues in cybersecurity! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
+Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-4 venues in cybersecurity! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
 - *17.02.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), has been published online in **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
 - *29.12.2024*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://www.linkedin.com/feed/update/urn:li:activity:7277494757205884929/), has been accepted by **IEEE Wireless Communications (WSM)**!
