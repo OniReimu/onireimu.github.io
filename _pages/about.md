@@ -33,7 +33,7 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 
 # 📝 Publications
 
-## 👾 AI, AI4Blockchain, Blockchain4AI
+## 👾 AI, AI-Cybersecurity, AI4Blockchain, Blockchain4AI
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'25</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
