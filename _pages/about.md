@@ -60,6 +60,18 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML'25</div><img src='images/paper_robustlight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RobustLight: Improving Data Quality via Diffusion Reinforcement Learning for Traffic Signal Control]()
+
+Mingyuan Li, Jiahao Wang, Wei Ni, **Guangsheng Yu**, et al.
+
+- This work makes novel use of diffusion models to address advesrail attack and missing data in real-world traffic signal control systems.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_fisher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,6 +83,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 - 💪 This work has been submitted to **TIFS**.
 </div>
 </div>
+
 
 - **[TSMC]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al. 2023.
 
