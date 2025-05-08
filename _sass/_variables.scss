@@ -56,12 +56,20 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+/* Light Theme (default) */
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
+
+/* Dark Theme */
+$dark-body-color            : #252a34;
+$dark-background-color      : #252a34;
+$dark-code-background-color : #2d323d;
+$dark-text-color            : #eaeaea;
+$dark-border-color          : #3d4654;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;

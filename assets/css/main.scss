@@ -40,6 +40,76 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* Dark Theme Styles */
+body.dark-theme {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+  
+  .page__content {
+    color: $dark-text-color;
+  }
+  
+  .archive__item-title a, .page__title, h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+  }
+  
+  a:not(.btn) {
+    &:hover {
+      color: mix(#fff, $link-color, 40%);
+    }
+  }
+  
+  .masthead, .page__footer {
+    background-color: darken($dark-background-color, 5%);
+  }
+  
+  .page__footer {
+    color: $dark-text-color;
+  }
+  
+  code {
+    background-color: $dark-code-background-color;
+  }
+  
+  pre {
+    background-color: $dark-code-background-color;
+  }
+  
+  .notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger {
+    background-color: mix(#000, $dark-background-color, 10%);
+  }
+  
+  table {
+    border: 1px solid mix(#fff, $dark-background-color, 20%);
+    th {
+      background-color: mix(#fff, $dark-background-color, 10%);
+    }
+    td {
+      border-bottom: 1px solid mix(#fff, $dark-background-color, 20%);
+    }
+  }
+  
+  .paper-box {
+    border-bottom: 1px solid $dark-border-color;
+  }
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+  background: transparent;
+  border: 0;
+  color: $masthead-link-color;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 1em;
+  font-size: 1.5em;
+  transition: $global-transition;
+  
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
