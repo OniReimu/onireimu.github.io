@@ -5,6 +5,19 @@ layout: compress
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
+    <!-- Apply theme early to prevent flash -->
+    <script>
+      (function() {
+        // Check for saved theme preference
+        const savedTheme = localStorage.getItem('theme') || 
+          (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        
+        // Apply theme class to body immediately
+        if (savedTheme === 'dark') {
+          document.documentElement.classList.add('dark-theme');
+        }
+      })();
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
   </head>

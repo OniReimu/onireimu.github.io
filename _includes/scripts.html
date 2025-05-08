@@ -1,13 +1,18 @@
-<script src="assets/js/main.min.js"></script>
+<script src="/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
 
 <script>
   // Theme Toggle Functionality
-  (function() {
+  document.addEventListener('DOMContentLoaded', function() {
     const themeToggle = document.getElementById('theme-toggle');
     const themeIcon = document.getElementById('theme-icon');
+    
+    if (!themeToggle || !themeIcon) {
+      console.error('Theme toggle elements not found');
+      return;
+    }
     
     // Check for saved theme preference or prefer-color-scheme
     function getThemePreference() {
@@ -20,10 +25,12 @@
     // Apply the theme
     function setTheme(theme) {
       if (theme === 'dark') {
+        document.documentElement.classList.add('dark-theme');
         document.body.classList.add('dark-theme');
         themeIcon.classList.remove('fa-sun');
         themeIcon.classList.add('fa-moon');
       } else {
+        document.documentElement.classList.remove('dark-theme');
         document.body.classList.remove('dark-theme');
         themeIcon.classList.remove('fa-moon');
         themeIcon.classList.add('fa-sun');
@@ -32,13 +39,16 @@
     }
     
     // Initialize theme
-    setTheme(getThemePreference());
+    const savedTheme = getThemePreference();
+    setTheme(savedTheme);
     
     // Add click event listener
-    themeToggle.addEventListener('click', function() {
+    themeToggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
       const currentTheme = localStorage.getItem('theme') || 'light';
       const newTheme = currentTheme === 'light' ? 'dark' : 'light';
       setTheme(newTheme);
     });
-  })();
+  });
 </script>
