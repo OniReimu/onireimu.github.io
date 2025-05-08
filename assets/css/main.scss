@@ -53,12 +53,29 @@ body.dark-theme {
     color: #fff;
   }
   
-  a:not(.btn) {
-    color: #64b5f6; /* Make links more visible in dark mode */
-    
-    &:hover {
-      color: #90caf9; /* Lighter blue on hover */
+  /* Fix any icons in dark mode to be visible */
+  .fa,
+  .fas,
+  .far,
+  .fal,
+  .fab {
+    &.fa-map-marker-alt,
+    &.fa-map-marker {
+      color: #ffffff !important;
     }
+  }
+  
+  /* Brighter links in dark mode */
+  a {
+    color: #70a5ff !important; /* Lighter blue for dark background */
+  }
+  
+  a:hover {
+    color: #9cc2ff !important; /* Even lighter on hover */
+  }
+  
+  a:visited {
+    color: #a894ff !important; /* Light purple for visited links */
   }
   
   /* Fix for masthead in dark mode */
@@ -73,37 +90,6 @@ body.dark-theme {
         color: lighten($dark-text-color, 15%) !important;
       }
     }
-  }
-  
-  /* Fix for map/iframe elements in dark mode */
-  iframe, 
-  .map-container, 
-  [id*="map"], 
-  [class*="map"],
-  [src*="map"],
-  [id*="Revolver"],
-  [class*="Revolver"] {
-    filter: invert(0.9) hue-rotate(180deg) !important;
-    
-    /* Apply only to dark elements */
-    @media (prefers-color-scheme: light) {
-      /* Reset filter for elements that have inverted colors in dark mode in case of theme mismatch */
-      [style*="background-color: #000"], 
-      [style*="background-color:#000"], 
-      [style*="background-color: black"],
-      [style*="background: #000"],
-      [style*="background:#000"],
-      [style*="background: black"] {
-        filter: invert(0.9) hue-rotate(180deg) !important;
-      }
-    }
-  }
-  
-  /* Ensure the map frame itself is properly contrasted */
-  .profile_box iframe,
-  .sidebar iframe {
-    border: 1px solid $dark-border-color !important;
-    background-color: lighten($dark-background-color, 10%) !important;
   }
   
   .greedy-nav {
