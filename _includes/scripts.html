@@ -7,7 +7,7 @@
   // Theme Toggle Functionality
   document.addEventListener('DOMContentLoaded', function() {
     const themeToggle = document.getElementById('theme-toggle');
-    const themeIcon = document.getElementById('theme-icon');
+    const themeIcon = themeToggle ? themeToggle.querySelector('i') : null;
     
     if (!themeToggle || !themeIcon) {
       console.error('Theme toggle elements not found');
@@ -27,13 +27,13 @@
       if (theme === 'dark') {
         document.documentElement.classList.add('dark-theme');
         document.body.classList.add('dark-theme');
-        themeIcon.classList.remove('fa-sun');
-        themeIcon.classList.add('fa-moon');
+        themeIcon.className = ''; // Clear existing classes
+        themeIcon.classList.add('fas', 'fa-sun');
       } else {
         document.documentElement.classList.remove('dark-theme');
         document.body.classList.remove('dark-theme');
-        themeIcon.classList.remove('fa-moon');
-        themeIcon.classList.add('fa-sun');
+        themeIcon.className = ''; // Clear existing classes
+        themeIcon.classList.add('fas', 'fa-moon');
       }
       localStorage.setItem('theme', theme);
     }

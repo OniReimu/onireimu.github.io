@@ -59,12 +59,27 @@ body.dark-theme {
     }
   }
   
-  .masthead, .page__footer {
-    background-color: darken($dark-background-color, 5%);
+  /* Fix for masthead in dark mode */
+  .masthead {
+    background-color: $dark-background-color !important;
+    border-bottom: 1px solid $dark-border-color !important;
+    
+    a {
+      color: $dark-text-color !important;
+      
+      &:hover {
+        color: lighten($dark-text-color, 15%) !important;
+      }
+    }
+  }
+  
+  .greedy-nav {
+    background-color: $dark-background-color !important;
   }
   
   .page__footer {
     color: $dark-text-color;
+    background-color: darken($dark-background-color, 5%);
   }
   
   code {
@@ -94,39 +109,53 @@ body.dark-theme {
   }
 }
 
+/* Theme Toggle Button Container */
+.theme-toggle-wrapper {
+  position: absolute;
+  top: 0.7em;
+  right: 2em;
+  z-index: 1000;
+}
+
 /* Theme Toggle Button */
 .theme-toggle {
-  background: transparent;
-  border: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
   color: $masthead-link-color;
-  cursor: pointer;
-  padding: 0.5em;
-  margin-left: 1em;
-  font-size: 1.2em;
-  transition: $global-transition;
-  position: absolute;
-  right: 2em;
-  top: 0.7em;
-  z-index: 100;
+  border: 1px solid rgba(0,0,0,0.1);
   border-radius: 50%;
+  width: 2em;
+  height: 2em;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: $global-transition;
+  padding: 0;
   
   &:hover {
     color: $masthead-link-color-hover;
     background-color: rgba(0,0,0,0.05);
+    transform: scale(1.1);
   }
   
   .dark-theme & {
-    background-color: transparent;
+    border-color: rgba(255,255,255,0.2);
+    color: white;
     
     &:hover {
       background-color: rgba(255,255,255,0.1);
     }
   }
+  
+  i {
+    line-height: 1;
+  }
 }
 
 /* Responsive adjustments for the theme toggle button */
 @media (max-width: $small) {
-  .theme-toggle {
+  .theme-toggle-wrapper {
     right: 3.5em;
   }
 }

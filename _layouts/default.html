@@ -12,9 +12,14 @@ layout: compress
         const savedTheme = localStorage.getItem('theme') || 
           (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
         
-        // Apply theme class to body immediately
+        // Apply theme class to document immediately
         if (savedTheme === 'dark') {
           document.documentElement.classList.add('dark-theme');
+          
+          // Also add a class to body as soon as it becomes available
+          document.addEventListener('DOMContentLoaded', function() {
+            document.body.classList.add('dark-theme');
+          });
         }
       })();
     </script>
