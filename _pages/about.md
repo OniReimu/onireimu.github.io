@@ -25,6 +25,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
+- *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Maximizing NFT Incentives: References Make You Rich", has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control", has been accepted by **ICML'25**!
 - *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
 Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-4 venues in cybersecurity! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
@@ -119,6 +120,8 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 - This work is collaborated with [British Telecom](https://www.bt.com).
 </div>
 </div>
+
+- **[TSC]** [Maximizing NFT Incentives: References Make You Rich](https://arxiv.org/abs/2402.06459), **Guangsheng Yu**, Qin Wang, et al. 2025.
 
 - **[TCSS]** [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), Qin Wang, **Guangsheng Yu**, et al. 2025.
 
