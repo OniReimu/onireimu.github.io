@@ -66,7 +66,7 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 
 [RobustLight: Improving Data Quality via Diffusion Reinforcement Learning for Traffic Signal Control]()
 
-Mingyuan Li, Jiahao Wang, Wei Ni, **Guangsheng Yu**, et al.
+Mingyuan Li, Jiahao Wang, **Guangsheng Yu**, et al.
 
 - This work makes novel use of diffusion models to address advesrail attack and missing data in real-world traffic signal control systems.
 
