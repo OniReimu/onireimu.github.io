@@ -85,6 +85,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 </div>
 </div>
 
+- **[FGCS]** [TDML - A Trustworthy Distributed Machine Learning Framework](https://arxiv.org/abs/2407.07339), Zhen Wang, Qin Wang, **Guangsheng Yu**, Shiping Chen. 2025.
 
 - **[TSMC]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al. 2023.
 
