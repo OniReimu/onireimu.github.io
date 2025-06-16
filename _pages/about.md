@@ -123,7 +123,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 </div>
 </div>
 
-- **[TSC]** [Maximizing NFT Incentives: References Make You Rich](https://arxiv.org/abs/2402.06459), **Guangsheng Yu**, Qin Wang, et al. 2025.
+- **[TSC]** [Maximizing NFT Incentives: References Make You Rich](https://ieeexplore.ieee.org/abstract/document/11031201), **Guangsheng Yu**, Qin Wang, et al. 2025.
 
 - **[TCSS]** [Understanding BRC-20: Hope or Hype](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590451), **Guangsheng Yu**, Qin Wang, et al. 2025.
 
