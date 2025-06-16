@@ -125,6 +125,8 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[TSC]** [Maximizing NFT Incentives: References Make You Rich](https://arxiv.org/abs/2402.06459), **Guangsheng Yu**, Qin Wang, et al. 2025.
 
+- **[TCSS]** [Understanding BRC-20: Hope or Hype](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590451), **Guangsheng Yu**, Qin Wang, et al. 2025.
+
 - **[TCSS]** [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), Qin Wang, **Guangsheng Yu**, et al. 2025.
 
 - **[TCSS]** [Cryptocurrency in the Aftermath: Unveiling the Impact of the SVB Collapse](https://ieeexplore.ieee.org/abstract/document/10522795), Qin Wang, **Guangsheng Yu**, Shiping Chen. 2024.
@@ -161,13 +163,11 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 ## 🚗 Applied Cybersecurity
 
+- **[TITS]** [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2025.
+
+- **[WCM]** [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://ieeexplore.ieee.org/document/10944629?source=AUTHORALERT&dld=dXRzLmVkdS5hdQ%3D%3D), Ying He, **Guangsheng Yu**, Xu Wang, Qin Wang, et al. 2025.
+
 - **[IoTJ]** [ByCAN: Reverse Engineering Controller Area Network (CAN) Messages From Bit to Byte Level](https://ieeexplore.ieee.org/abstract/document/10614332), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
-
-- **[TITS]** [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), Xiaojie Lin, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024.
-
-- **[WCM]** [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://ieeexplore.ieee.org/document/10944629?source=AUTHORALERT&dld=dXRzLmVkdS5hdQ%3D%3D), Ying He, **Guangsheng Yu**, Xu Wang, Qin Wang, et al. 2024.
-
-
 
 
 
