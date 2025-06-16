@@ -25,6 +25,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
+- *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "BlockFUL: Enabling Unlearning in Blockchained Federated Learning", has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
 - *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Maximizing NFT Incentives: References Make You Rich", has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control", has been accepted by **ICML'25**!
 - *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
@@ -85,6 +86,8 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 </div>
 </div>
 
+- **[TIFS]** [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://arxiv.org/abs/2402.16294), Xiao Liu, Mingyuan Li, **Guangsheng Yu**, Xu Wang, et al. 2025.
+
 - **[FGCS]** [TDML - A Trustworthy Distributed Machine Learning Framework](https://arxiv.org/abs/2407.07339), Zhen Wang, Qin Wang, **Guangsheng Yu**, Shiping Chen. 2025.
 
 - **[TSMC]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al. 2023.
@@ -96,8 +99,6 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 - **[CSUR]** [Blockchained Federated Learning for Internet of Things: A Comprehensive Survey](https://dl.acm.org/doi/full/10.1145/3659099), Yanna Jiang, Baihe Ma, Xu Wang, **Guangsheng Yu**, et al. 2024
 
 - **[Computer Networks]** [TBDD: A New Trust-based, DRL-driven Framework for Blockchain Sharding in IoT](https://www.sciencedirect.com/science/article/pii/S1389128624001750), Zixu Zhang, **Guangsheng Yu**, et al. 2024.
-
-- **[arXiv]** [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/abstract/document/10201805), Xiao Liu, Mingyuan Li, **Guangsheng Yu**, Xu Wang, et al. 💪 Submitted to **TIFS**.
 
 ## 💰 Blockchain and Web3
 
