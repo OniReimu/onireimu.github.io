@@ -26,6 +26,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 # 🔥 News
 - *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "BlockFUL: Enabling Unlearning in Blockchained Federated Learning", has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
+- *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Understanding BRC-20: Hope or Hype", has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Maximizing NFT Incentives: References Make You Rich", has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control", has been accepted by **ICML'25**!
 - *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
