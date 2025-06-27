@@ -26,9 +26,9 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 # 🔥 News
 - *24.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage", has been accepted by **IEEE Transactions on Service Computing (TSC)**!
-- *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "BlockFUL: Enabling Unlearning in Blockchained Federated Learning", has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
+- *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
 - *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Understanding BRC-20: Hope or Hype", has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
-- *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Maximizing NFT Incentives: References Make You Rich", has been accepted by **IEEE Transactions on Service Computing (TSC)**!
+- *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Maximizing NFT Incentives: References Make You Rich](https://ieeexplore.ieee.org/abstract/document/11031201), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control", has been accepted by **ICML'25**!
 - *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
 Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-4 venues in cybersecurity! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
@@ -88,7 +88,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 </div>
 </div>
 
-- **[TIFS]** [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://arxiv.org/abs/2402.16294), Xiao Liu, Mingyuan Li, **Guangsheng Yu**, Xu Wang, et al. 2025.
+- **[TIFS]** [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), Xiao Liu, Mingyuan Li, **Guangsheng Yu**, Xu Wang, et al. 2025.
 
 - **[TSC]** [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://arxiv.org/abs/2404.06077), Qin Wang, **Guangsheng Yu**, et al. 2025.
 
