@@ -25,7 +25,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
-- *24.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage", has been accepted by **IEEE Transactions on Service Computing (TSC)**!
+- *24.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://ieeexplore.ieee.org/document/11071388), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
 - *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Understanding BRC-20: Hope or Hype", has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Maximizing NFT Incentives: References Make You Rich](https://ieeexplore.ieee.org/abstract/document/11031201), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
@@ -90,7 +90,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[TIFS]** [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), Xiao Liu, Mingyuan Li, **Guangsheng Yu**, Xu Wang, et al. 2025.
 
-- **[TSC]** [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://arxiv.org/abs/2404.06077), Qin Wang, **Guangsheng Yu**, et al. 2025.
+- **[TSC]** [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://ieeexplore.ieee.org/document/11071388), Qin Wang, **Guangsheng Yu**, et al. 2025.
 
 - **[FGCS]** [TDML - A Trustworthy Distributed Machine Learning Framework](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25002468?via%3Dihub), Zhen Wang, Qin Wang, **Guangsheng Yu**, Shiping Chen. 2025.
 
