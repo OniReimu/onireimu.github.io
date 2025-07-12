@@ -27,7 +27,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 # 🔥 News
 - *24.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://ieeexplore.ieee.org/document/11071388), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
-- *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "Understanding BRC-20: Hope or Hype", has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
+- *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding BRC-20: Hope or Hype](https://ieeexplore.ieee.org/document/11077736), has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Maximizing NFT Incentives: References Make You Rich](https://ieeexplore.ieee.org/abstract/document/11031201), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, "RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control", has been accepted by **ICML'25**!
 - *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
@@ -129,7 +129,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 - **[TSC]** [Maximizing NFT Incentives: References Make You Rich](https://ieeexplore.ieee.org/abstract/document/11031201), **Guangsheng Yu**, Qin Wang, et al. 2025.
 
-- **[TCSS]** [Understanding BRC-20: Hope or Hype](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590451), **Guangsheng Yu**, Qin Wang, et al. 2025.
+- **[TCSS]** [Understanding BRC-20: Hope or Hype](https://ieeexplore.ieee.org/document/11077736), **Guangsheng Yu**, Qin Wang, et al. 2025.
 
 - **[TCSS]** [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), Qin Wang, **Guangsheng Yu**, et al. 2025.
 
