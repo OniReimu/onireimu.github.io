@@ -25,13 +25,13 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 
 # 🔥 News
+- *15.10.2025*: &nbsp;🌟 We’re beyond excited! 🌟
+Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been recongized with the **Distinguished Paper Award** at **ACM CCS'25**!
 - *24.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://ieeexplore.ieee.org/document/11071388), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
 - *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding BRC-20: Hope or Hype](https://ieeexplore.ieee.org/document/11077736), has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *25.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Maximizing NFT Incentives: References Make You Rich](https://ieeexplore.ieee.org/abstract/document/11031201), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control](https://openreview.net/forum?id=YGjd2xw98G), has been accepted by **ICML'25**!
-- *29.03.2025*: &nbsp;🌟 We’re beyond excited! 🌟
-Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been directly accepted to **ACM CCS'25** — one of the top-4 venues in cybersecurity! Huge thanks to everyone who supported this work — we’re so proud and can’t wait to share more soon! 🎉🔒💻
 - *17.02.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), has been published online in **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
 - *29.12.2024*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://ieeexplore.ieee.org/document/10944629?source=AUTHORALERT&dld=dXRzLmVkdS5hdQ%3D%3D), has been accepted by **IEEE Wireless Communications (WSM)**!
