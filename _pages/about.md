@@ -175,9 +175,9 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *15.10.2025* [Split Unlearning](https://arxiv.org/abs/2308.10422) (ACM CCS'25, Distinguished Paper Award)
+
 
 # 📖 Standards
 
