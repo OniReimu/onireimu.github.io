@@ -43,12 +43,11 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'25</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Split Unlearning](https://arxiv.org/pdf/2308.10422)
+[Split Unlearning](https://arxiv.org/pdf/2308.10422) 🎉 **(Distinguished Paper Award)**
 
 **Guangsheng Yu**, Yanna Jiang, Qin Wang, Xu Wang, Baihe Ma, Caijun Sun, Wei Ni, Ren Ping Liu.
 
 - This work is the first to propose, implement, and evaluate a practical unlearning framework for split learning.
-- 🎉 This work has been directly accepted to **ACM CCS'25**.
 </div>
 </div>
 
