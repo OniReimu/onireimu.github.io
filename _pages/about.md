@@ -26,7 +26,7 @@ If you are interested in my research and keen to collaborate or discuss potentia
 
 # 🔥 News
 - *15.10.2025*: &nbsp;🌟 We’re beyond excited! 🌟
-Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.org/abs/2308.10422), has been recongized with the **Distinguished Paper Award** at **ACM CCS'25**!
+Absolutely thrilled to share that our paper, [Split Unlearning](https://dl.acm.org/doi/10.1145/3719027.3744787), has been recongized with the 🏆 **Distinguished Paper Award** at **ACM CCS'25**!
 - *24.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://ieeexplore.ieee.org/document/11071388), has been accepted by **IEEE Transactions on Service Computing (TSC)**!
 - *16.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [BlockFUL: Enabling Unlearning in Blockchained Federated Learning](https://ieeexplore.ieee.org/document/11050955), has been accepted by **IEEE Transactions on Information Forensics & Security (TIFS)**!
 - *04.06.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding BRC-20: Hope or Hype](https://ieeexplore.ieee.org/document/11077736), has been accepted by **IEEE Transactions on Computational Social Systems (TCSS)**!
@@ -43,7 +43,7 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://arxiv.or
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS'25</div><img src='images/paper_split.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Split Unlearning](https://arxiv.org/pdf/2308.10422) 🎉 **(Distinguished Paper Award)**
+[Split Unlearning](https://dl.acm.org/doi/10.1145/3719027.3744787) 🏆 **(Distinguished Paper Award)**
 
 **Guangsheng Yu**, Yanna Jiang, Qin Wang, Xu Wang, Baihe Ma, Caijun Sun, Wei Ni, Ren Ping Liu.
 
@@ -175,7 +175,7 @@ Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
 
 
 # 🎖 Honors and Awards
-- *15.10.2025* [Split Unlearning](https://arxiv.org/abs/2308.10422) (ACM CCS'25, Distinguished Paper Award)
+- *15.10.2025* [Split Unlearning](https://dl.acm.org/doi/10.1145/3719027.3744787) (ACM CCS'25, 🏆 Distinguished Paper Award)
 
 
 # 📖 Standards
