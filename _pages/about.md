@@ -103,7 +103,7 @@ Xiao Liu, Mingyuan Li, **Guangsheng Yu**, et al.
 
 ## 💰 Blockchain and Web3
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEM'19</div><img src='images/paper_abe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEM</div><img src='images/paper_abe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enabling Attribute Revocation for Fine-Grained Access Control in Blockchain-IoT Systems](https://ieeexplore.ieee.org/abstract/document/8989788)
@@ -113,7 +113,7 @@ Xiao Liu, Mingyuan Li, **Guangsheng Yu**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS'24</div><img src='images/paper_servicenow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS</div><img src='images/paper_servicenow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward Web3 Applications: Easing the Access and Transition](https://ieeexplore.ieee.org/abstract/document/10505933)
@@ -186,14 +186,17 @@ Xiao Liu, Mingyuan Li, **Guangsheng Yu**, et al.
 # 💻 Teaching
 
 - *Coord./Lect./Tut.*, 41900/42000 Cryptography, University of Technology Sydney. Large-scale course with over 450 students.
+- *Coord./Lect./Tut.*, 48436/32309 Digital Forensics, University of Technology Sydney. Advanced course for Forensic students (Cybersecurity-oriented).
 - *Coord./Lect./Tut.*, 41092 Network Fundamentals, University of Technology Sydney. Fundamentals course for all Cybersecurity students.
 - *Coord./Lect.*, 65325 Digital Trace and Identity, University of Technology Sydney. Core course for Forensic students (Forensic-oriented).
 - *Coord./Lect.*, 420108 Cybersecurity Management, University of Technology Sydney. OPM course for industry.
 - *Tut.*, 43010 Cyber Threat Intelligence and Incident Response, University of Technology Sydney. SecOps course collaborated with [ThreatDefense](https://www.threatdefence.com).
-- *Tut.*, 48436 Digital Forensics, University of Technology Sydney. Advanced course for Forensic students (Cybersecurity-oriented).
 - *Curric. Des.*, 43030 Professional Practice in Computing (Cybersecurity), University of Technology Sydney. Aimed for 500 students in two years.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- *2025.12*, Talk on “PoLO: Proof-of-Learning and Proof-of-Ownership at Once with Chained Watermark”, CRWA Meetup Melbourne.
+- *2025.12*, Talk on “Split Unlearning”, CSIRO Data61.
+- *2025.10*, Talk on “Split Unlearning”, ACM CCS Meetup Taipei.
+- *2019*, Talk on “Attack and Defence of Ethereum Remote APIs”, Sydney Blockchain Centre.
+- *2018.12*, Talk on “An Optimized Round-Robin Scheduling of Speakers for Peers-to-Peers-based Byzantine Faulty Tolerance”, IEEE GLOBECOM Meetup Abu Dhabi.
 
