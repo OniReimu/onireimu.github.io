@@ -34,7 +34,6 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://dl.acm.o
 - *01.05.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [RobustLight:Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control](https://openreview.net/forum?id=YGjd2xw98G), has been accepted by **ICML'25**!
 - *17.02.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Understanding DAOs: An Empirical Study on Governance Dynamics](https://ieeexplore.ieee.org/document/10891558), has been published online in **IEEE Transactions on Computational Social Systems (TCSS)**!
 - *04.01.2025*: &nbsp;🎉🎉 Thrilled to announce that our paper, [CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories](https://ieeexplore.ieee.org/abstract/document/10858595), has been accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**! Congrats to my PhD student, [Xiaojie Lin](https://scholar.google.com/citations?user=TH9WESkAAAAJ)!
-- *29.12.2024*: &nbsp;🎉🎉 Thrilled to announce that our paper, [Accountability and Reliability in 6G O-RAN: Who is Responsible When it Fails?](https://ieeexplore.ieee.org/document/10944629?source=AUTHORALERT&dld=dXRzLmVkdS5hdQ%3D%3D), has been accepted by **IEEE Wireless Communications (WSM)**!
 
 # 📝 Publications
 
@@ -51,7 +50,7 @@ Absolutely thrilled to share that our paper, [Split Unlearning](https://dl.acm.o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'23</div><img src='images/paper_ironforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/paper_ironforge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IronForge: An Open, Secure, Fair, Decentralized Federated Learning](https://ieeexplore.ieee.org/abstract/document/10323597)
@@ -75,15 +74,14 @@ Mingyuan Li, Jiahao Wang, **Guangsheng Yu**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_fisher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/paper_fisher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fishers Harvest Parallel Unlearning in Inherited Model Networks](https://arxiv.org/pdf/2408.08493)
+[Parallel Unlearning in Inherited Model Networks](https://ieeexplore.ieee.org/document/11224866)
 
-Xiao Liu, Mingyuan Li, Xu Wang, **Guangsheng Yu**, et al.
+Xiao Liu, Mingyuan Li, **Guangsheng Yu**, et al.
 
 - This work is the first-ever to achieve fully parallel unlearning across models that are interlinked.
-- 💪 This work has been submitted to **TIFS**.
 </div>
 </div>
 
