@@ -89,6 +89,8 @@ Xiao Liu, Mingyuan Li, **Guangsheng Yu**, et al.
 
 - **[TSC]** [Is Your AI Truly Yours? Leveraging Blockchain for Copyrights, Provenance, and Lineage](https://ieeexplore.ieee.org/document/11071388), Qin Wang, **Guangsheng Yu**, et al. 2025.
 
+- **[TOMM]** [NNFMAC: A Neural Network Fingerprinting-based Model Authentication Code Scheme](https://dl.acm.org/doi/10.1145/3778121), Haiyu Deng, Xu Wang, **Guangsheng Yu**, et al. 2025.
+
 - **[FGCS]** [TDML - A Trustworthy Distributed Machine Learning Framework](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25002468?via%3Dihub), Zhen Wang, Qin Wang, **Guangsheng Yu**, Shiping Chen. 2025.
 
 - **[TSMC]** [Adaptive Resource Scheduling in Permissionless Sharded-Blockchains: A Decentralized Multiagent Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10201805), **Guangsheng Yu**, Xu Wang, et al. 2023.
