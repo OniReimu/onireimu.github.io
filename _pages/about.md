@@ -183,7 +183,7 @@ Xiao Liu, Mingyuan Li, **Guangsheng Yu**, et al.
 **We are deeply involved in the Ethereum community, contributing, collaborating, and growing together with this amazing ecosystem! 🚀✨💎🙌 #Ethereum**
 
 - [[*ERC-5521*](https://eips.ethereum.org/EIPS/eip-5521)][[Webpage](https://www.r-nft.io)][[Doc](https://arxiv.org/pdf/2210.10910)], Referable NFT, Finalized!!!
-- [[*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634)], Limited transfer count NFT, Draft.
+- [[*ERC-7634*](https://eips.ethereum.org/EIPS/eip-7634)], Limited transfer count NFT, Finalized!!!
 
 # 💻 Teaching
 
